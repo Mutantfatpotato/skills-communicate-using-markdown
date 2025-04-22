@@ -5,4 +5,7 @@
 ##### H5
 ###### H6
 
-Añadidas las cabeceras
+Añadidas las cabeceras e imagen
+
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
+
